@@ -1,17 +1,19 @@
 .wrapper {
   width: 30%;
-  height: 400px;
-  background-color: var(--primary-color);
+  height: auto;
+  background-image: var(--secondary-color);
   color: var(--text-color);
   display: flex;
   flex-direction: column;
+  padding-top: 30px;
   padding-left: 20px;
+  
 }
 .displayLevel {
   display: flex;
   gap: 2rem;
 
-  
+  padding-bottom: 20px;
   width: 80%;
 }
 .iconWrapper {
@@ -30,7 +32,7 @@
   width: 80%;
   display: flex;
   gap: 4rem;
-
+  padding-bottom: 20px;
   align-items: center;
   font-size: 10px;
 }
