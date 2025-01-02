@@ -1,0 +1,26 @@
+.main {
+    height: 75px;
+    background-image: var(--primary-color);
+    border: 3px solid var(--border-color);
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    
+}
+
+.main ul li{
+    list-style: none;
+    color: var(--text-color);
+}  
+.main ul li:hover{ 
+    color: rgb(255, 255, 255);
+    box-shadow: rgba(254, 254, 254, 0.25) 0px 54px 55px, rgba(241, 234, 234, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

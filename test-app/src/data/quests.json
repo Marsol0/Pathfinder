@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "The Lost Artifact",
+    "description": "Find the ancient artifact hidden in the Forbidden Cave.",
+    "reward": "500 gold and a rare sword",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "name": "Rescue the Villagers",
+    "description": "Save the villagers captured by bandits in the Dark Forest.",
+    "reward": "300 gold and a shield",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 3,
+    "name": "Gather Healing Herbs",
+    "description": "Collect 10 rare healing herbs for the town's healer.",
+    "reward": "100 gold and a health potion",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 4,
+    "name": "Defeat the Dragon",
+    "description": "Slay the fire-breathing dragon terrorizing the mountains.",
+    "reward": "1000 gold and a dragon-scale armor",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 5,
+    "name": "Escort the Merchant",
+    "description": "Protect the merchant traveling to the next city.",
+    "reward": "200 gold and a special trade discount",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 6,
+    "name": "The Missing Scout",
+    "description": "Find and bring back the missing scout from the wilderness.",
+    "reward": "150 gold and a map of hidden paths",
+    "difficulty": "Medium"
+  },
+  {
+    "id": 7,
+    "name": "Repair the Bridge",
+    "description": "Collect materials and repair the broken bridge over the river.",
+    "reward": "50 gold and free passage",
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "name": "The Cursed Necklace",
+    "description": "Destroy the cursed necklace causing havoc in the village.",
+    "reward": "400 gold and a magical ring",
+    "difficulty": "Hard"
+  },
+  {
+    "id": 9,
+    "name": "Defend the Outpost",
+    "description": "Help the soldiers defend the outpost from an enemy raid.",
+    "reward": "600 gold and a hero's medal",
+    "difficulty": "Very Hard"
+  },
+  {
+    "id": 10,
+    "name": "Explore the Ruins",
+    "description": "Investigate the ancient ruins and report back your findings.",
+    "reward": "300 gold and a relic of power",
+    "difficulty": "Medium"
+  }
+]
